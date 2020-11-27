@@ -1,5 +1,5 @@
-# AsdQwe by Ofdream
-AsdQwe Texture Pack'i oyunu, grafiklerini ve dokularını oynama konusunda geniş deneyime sahip Ofdream tarafından geliştirilmiştir.
+# AsdQwe x16 by Ofdream
+AsdQwe x16 Texture Pack'i oyunu, grafiklerini ve dokularını oynama konusunda geniş deneyime sahip Ofdream tarafından geliştirilmiştir.
 Oyun oynarken oyuncuların sürükleyici bir deneyime sahip olmasını sağlamak için, oyunun görselleri biraz değiştirildi.
 
 # Copyright
